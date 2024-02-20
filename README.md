@@ -9,4 +9,4 @@ Sounds Used: Ambient Birds Chirping, Eerie Background, Enemies Squish Walking
 
 3D sound that is triggered by the players proximity: Eerie Background
 
-2D or 3D ambient sound that exists for an entire scene or area of your game: Ambient Birds Chirping"# VRIndividualGame" 
+2D or 3D ambient sound that exists for an entire scene or area of your game: Ambient Birds Chirping looping
